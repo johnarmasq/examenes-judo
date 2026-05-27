@@ -43,32 +43,32 @@ Tachi rei (Saludo de pie)
 Explicar ó demostrar los elementos de: kumikata, tai sabaki, kuzushi, tskuri y kake
 
 * Tai-Otoshi (caída del cuerpo)
-![](https://www.youtube.com/watch?v=4x6S3Q-Ktv8)
+[![](https://www.youtube.com/watch?v=4x6S3Q-Ktv8)]
 * O-goshi (Gran cadera)
-![](https://www.youtube.com/watch?v=yhu1mfy2vJ4)
+[![](https://www.youtube.com/watch?v=yhu1mfy2vJ4)]
 * Harai-goshi (barrido de cadera)
-![](https://www.youtube.com/watch?v=qTo8HlAAkOo)
+[![](https://www.youtube.com/watch?v=qTo8HlAAkOo)]
 * Tsurikomi-goshi (Tsuri (pescar/levantar), Komi (jalar hacia adentro o cargar) y Goshi (cadera))
-![](https://www.youtube.com/watch?v=McfzA0yRVt4)
+[![](https://www.youtube.com/watch?v=McfzA0yRVt4)]
 * O-soto-gari (Gran siega exterior)
-![](https://www.youtube.com/watch?v=c-A_nP7mKAc)
+[![](https://www.youtube.com/watch?v=c-A_nP7mKAc)]
 * Ko-soto-gari (pequeña siega exterior)
-![](https://www.youtube.com/watch?v=jeQ541ScLB4)
+[![](https://www.youtube.com/watch?v=jeQ541ScLB4)]
 
 ## TÉCNICAS KATAME-WAZA
 
 * Hon-kesa-gatame
-![](https://www.youtube.com/watch?v=NDaQuJOFBYk)
+[![](https://www.youtube.com/watch?v=NDaQuJOFBYk)]
 * Kata-gatame (Triangulo de brazo)
-![](https://www.youtube.com/watch?v=zQR3IOXxO_Q)
+[![](https://www.youtube.com/watch?v=zQR3IOXxO_Q)]
 * Tate-shiho-gatame (Triangulo de brazo en monta)
-![](https://www.youtube.com/watch?v=55-rFmBx53g)
+[![](https://www.youtube.com/watch?v=55-rFmBx53g)]
 * Kuzure-kami-shiho-gatame (Pin como paper choke pero la que estrangula va al cinturon)
-![](https://www.youtube.com/watch?v=YUrogQWdwiY)
+[![](https://www.youtube.com/watch?v=YUrogQWdwiY)]
 ## KATA
 
 Énfasis en los conceptos de desplazamiento, ubicaciones y fluidez
 
 * Nage-no-Kata: Protocolo inicial de saludo katas y 1er grupo de técnicas de brazo (Te-waza).
 * Kodomo-no-kata: Ejercicio serie #5, incluyendo los protocolos de saludo.
-![](https://www.youtube.com/watch?v=vCP14QytWr4)
+[![](https://www.youtube.com/watch?v=vCP14QytWr4)]

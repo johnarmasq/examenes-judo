@@ -4,30 +4,30 @@
 * Tachirei: Saludo de pie
 * Zarei: Saludo en el suelo
 * Postura adecuada del judogi y cinturón
-![Explicacion judogi y cinturon](https://www.youtube.com/watch?v=82jYEAHjQeA)
+[![Explicacion judogi y cinturon](https://www.youtube.com/watch?v=82jYEAHjQeA)]
 
 ## TAISO
 
 * Giro o vuelta lateral acostado
 * Rollo o vuelta adelante corto
-![Forward roll](https://www.youtube.com/shorts/-JROt-FdJI4)
+[![Forward roll](https://www.youtube.com/shorts/-JROt-FdJI4)]
 
 * Rollo o vuelta atrás por los hombros
-![Backward roll](https://youtu.be/GmE0m2dxi0Y?t=29)
+[![Backward roll](https://youtu.be/GmE0m2dxi0Y?t=29)]
 
 ## UKEMIS
 
 * Ushiro-ukemi: Caida hacia atras
-![](https://www.youtube.com/watch?v=_g7rvsxTkz8)
+[![](https://www.youtube.com/watch?v=_g7rvsxTkz8)]
 
 * Yoko-ukemi: Caida a un lado
-![](https://www.youtube.com/watch?v=JCwK1Ia4jsc)
+[![](https://www.youtube.com/watch?v=JCwK1Ia4jsc)]
 
 * Mae-ukemi: Caida de frente
-![](https://www.youtube.com/watch?v=veM5RFdjo0U)
+[![](https://www.youtube.com/watch?v=veM5RFdjo0U)]
 
 * Mae-mawari-ukemi: Rollo de frente por hombro y caida
-![](https://www.youtube.com/watch?v=kbiLot6laks)
+[![](https://www.youtube.com/watch?v=kbiLot6laks)]
 
 ## REGLAMENTO
 
@@ -42,42 +42,42 @@ Explicar ó demostrar los elementos de: kumikata (agarres), tai sabaki (Desplaza
 
 
 * Seoi-nage: proyección cargando sobre la espalda
-![seio nage](https://www.youtube.com/watch?v=zIq0xI0ogxk)
+[![seio nage](https://www.youtube.com/watch?v=zIq0xI0ogxk)]
 
 * Uki-goshi: cadera flotante
-![uki goshi](https://www.youtube.com/watch?v=bPKwtB4lyOQ)
+[![uki goshi](https://www.youtube.com/watch?v=bPKwtB4lyOQ)]
 
 * De-ashi-harai: barrido del pie adelantado
-![de ashi harai](https://www.youtube.com/watch?v=4BUUvqxi_Kk)
+[![de ashi harai](https://www.youtube.com/watch?v=4BUUvqxi_Kk)]
 
 * O-soto-otoshi: gran caída por el exterior
-![o soto otoshi](https://www.youtube.com/watch?v=2DsVvDw7b8g)
+[![o soto otoshi](https://www.youtube.com/watch?v=2DsVvDw7b8g)]
 
 * O-uchi-gari: Gran siega interior
-![o uchi gari](https://www.youtube.com/watch?v=0itJFhV9pDQ)
+[![o uchi gari](https://www.youtube.com/watch?v=0itJFhV9pDQ)]
 
 ## TÉCNICAS KATAME-WAZA
 
 * Kuzure-kesa-gatame: control por el costado
-![kesa gatame](https://www.youtube.com/watch?v=Q2fb9jaoUFQ)
+[![kesa gatame](https://www.youtube.com/watch?v=Q2fb9jaoUFQ)]
 
 * Kami-shiho-gatame: _control superior sobre cuatro puntos_ (Norte sur)
-![](https://www.youtube.com/watch?v=HFuMjOv0WN8)
+[![](https://www.youtube.com/watch?v=HFuMjOv0WN8)]
 
 * Yoko-shiho-gatame: control sobre cuatro puntos desde el costado (Side control/ 100 kg)
-![](https://www.youtube.com/watch?v=TT7XJVSEQxA)
+[![](https://www.youtube.com/watch?v=TT7XJVSEQxA)]
 ## KATA
 
 Énfasis en los conceptos de protocolo en saludo
 
 * Nage-no-Kata: Protocolo inicial de saludo katas.
-![](https://www.youtube.com/watch?v=xwjGsLGjOCI)
+[![](https://www.youtube.com/watch?v=xwjGsLGjOCI)]
 
-Hasta minuto 1:51: ![Hasta minuto 1:51](https://youtu.be/bkhBZzE2HpM?t=76)
+Hasta minuto 1:51: [![Hasta minuto 1:51](https://youtu.be/bkhBZzE2HpM?t=76)]
 
 * Kodomo-no-kata: Protocolos de saludo e ingreso al tatami.
 2:58 - 3:40
-![](https://youtu.be/sdGEvYpqR9k?t=178)
+[![](https://youtu.be/sdGEvYpqR9k?t=178)]
 
 ## TEORIA
 
