@@ -4,7 +4,8 @@
 * Tachirei: Saludo de pie
 * Zarei: Saludo en el suelo
 * Postura adecuada del judogi y cinturón
-[![Explicacion judogi y cinturon](https://www.youtube.com/watch?v=82jYEAHjQeA)]
+[![Explicacion judogi y cinturon](https://img.youtube.com/vi/82jYEAHjQeA/0.jpg)](https://www.youtube.com/watch?v=82jYEAHjQeA)
+
 
 ## TAISO
 
